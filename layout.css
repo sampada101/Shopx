@@ -105,7 +105,7 @@ body{
 }
 .new-arrivals-top-new{
 	font-family: 'Alex Brush';
-	font-size: xxx-large;
+	font-size: 48px;
 	padding: 0;
 }
 .new-arrivals-top-arrivals{
@@ -113,7 +113,7 @@ body{
 	font-family: 'Titillium Web'
 }
 .new-arrivals-title-title{
-	font-size: -webkit-xxx-large;
+	font-size: 48px;
 	font-family: 'Roboto';
 	font-weight: bold;
 }
